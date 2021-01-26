@@ -12,3 +12,4 @@ Object.defineProperties
 Object.defineProperty
 
 */
+const produto = {nome: 'Caneca', preco:10.80};
